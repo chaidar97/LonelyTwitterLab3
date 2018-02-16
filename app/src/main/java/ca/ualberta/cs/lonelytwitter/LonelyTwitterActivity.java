@@ -89,7 +89,7 @@ public class LonelyTwitterActivity extends Activity {
 	}
 
 	/**
-	 * Loads all the tweets from the Gson file
+	 * Loads all the tweets from the Gson file TEST
 	 * @throws FileNotFoundException
 	 * @throws IOException
 	 */
